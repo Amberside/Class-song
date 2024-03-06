@@ -1,1 +1,2 @@
 This is my song about code.
+JavaScript is mighty fine.
